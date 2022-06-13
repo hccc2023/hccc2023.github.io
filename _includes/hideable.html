@@ -1,0 +1,18 @@
+<article class="content">
+  <!-- <h1 class="content-title">{{ page.title }}</h1> -->
+    <div class="content-article">
+      {% if page.hide %}
+        {% if page.hidedesc %}
+          {{ page.hidedesc }}
+        {% else %}
+          {{ site.default-hidedesc }}
+        {% endif %}
+      {% else %}
+        {% if page.pagetype == "categories" %}
+          {%- include category.html -%}
+        {% else %}
+          {{ content }} 
+        {% endif %}
+      {% endif %}
+    </div>
+</article>

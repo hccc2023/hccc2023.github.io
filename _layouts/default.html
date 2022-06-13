@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.pang | default: site.lang | default: "ko" }}">
+  {%- include head.html -%}
+  <body>
+    {%- include header.html -%}
+      <main>
+        {% if page.pagetype == "home" %}
+          {{ content }}
+        {% elsif page.class == "hideable" %}
+          {%- include hideable.html -%}
+        {% else %}
+          {% if page.pagetype == "categories" %}
+            {%- include category.html -%}
+          {% else %}
+            {%- include article.html -%}
+          {% endif %}
+        {% endif %}
+      </main>
+    {%- include footer.html -%}
+  </body>
+</html>

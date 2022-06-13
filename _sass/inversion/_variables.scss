@@ -1,0 +1,25 @@
+$base: 232;
+
+$--base-fg-color: hsla($base, 75%, 95%, 1);
+$--base-fg-color--dark: hsla($base, 75%, 90%, 0.62);
+$--base-fg-color--darker: hsla($base, 75%, 90%, 0.32);
+$--base-fg-color--darkest: hsla($base, 75%, 90%, 0.12);
+$--base-bg-color: hsla($base, 15%, 21%, 1);
+$--base-bg-color--light: hsla($base, 15%, 21%, 0.54);
+$--base-bg-color--lighter: hsla($base, 15%, 21%, 0.26);
+$--base-bg-color--lightest: hsla($base, 15%, 21%, 0.07);
+$--base-outline-color: hsla($base, 75%, 95%, 0.12);
+$--base-header-bg-color: hsla($base, 15%, 12%, 0.87);
+$--base-header-bg-color--dark: hsla($base, 15%, 10%, 1);
+$--base-footer-bg-color: hsla($base, 15%, 12%, 0.87);
+$--base-footer-bg-color--dark: hsla($base, 15%, 10%, 1);
+
+$--code-fg-color: hsla($base, 18%, 86%, 1);
+$--code-bg-color: hsla($base, 15%, 15%, 1);
+$--highlight-bg-color: hsla($base, 0%, 100%, 0.025);
+$--highlight-red: #f06090;
+$--highlight-orange: #e6695b;
+$--highlight-green: #2fb170;
+$--highlight-blue: #6791e0;
+$--highlight-purple: #9383e2;
+$--highlight-twilight: #c3bcc4;

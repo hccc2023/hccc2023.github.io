@@ -1,0 +1,117 @@
+---
+layout: home
+pagetype: home
+navselect: home
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+
+<script id="typed-src" src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+<style>
+  pre#typing-console {
+    margin-bottom: 1.6em;
+    padding: 0.4em 1.2em;
+    text-align: left;
+    user-select: none;
+    font-family: 'IBM Plex Mono', monospace;
+    overflow: hidden;
+  }
+</style>
+<article class="index">
+  <pre id="typing-console"><span id="typing-console__content">...</span></pre>
+
+  <p><b style="font-weight: 700; font-size:x-large"> 시스템 보안 진단과 구성, 침해대응, 그리고 최종 보고/발표까지 </b> <br></p>
+
+  <p> '정보보안전문가'를 꿈꾸는 많은 사람들은 자신이 공부한 것을 평가해보기 위해 <br> 
+    CTF(Capture the Flag)와 같은 해킹대회에 참여하곤 합니다. </p>
+
+  <p> 주어진 문제에 대해 gdb로 열심히 바이너리를 분석하고, <br> 
+    exploit 스크립트들을 조립하고, 마침내 flag를 얻어냅니다. <br> 
+    정말 어려운 일인데, 그동안 열심히 공부한 보람이 있습니다! </p>
+
+  <p> <b style="font-weight: 700;">그런데, '정보보안전문가'를 꿈꾸는 당신, iptables는 어떻게 사용하는지 아시나요?</b> </p>
+
+  <p> 정말 어려운 exploit 코드는 곧 잘 만들어내면서, <br> 
+    정작 기본적인 방화벽은 어떻게 구성하는지 공부해본 적이 없는 듯 하네요! <br> 
+    과연 우리가 '정보보안'을 잘 안다고 말 할 수 있을까요?</p>
+
+  <p> 어떤 시스템에 대한 취약점 및 보안성 검토, 보안 환경 구성, <br> 
+    그리고 사고 발생 시 그에 대한 정확한 진단과 대응, 보고까지. <br> 
+    단지 flag를 획득하는 것 외에도 '정보보안'에는 중요한 일들이 많습니다! </p>
+
+  <p> 이러한 정보보안과 관련한 종합적인 역량을 겨루기 위해 <br> 
+    여기, <b style="font-weight: 700;color:#1154FF">호남 대학간 침해대응/분석 대회 2022 (HCCC 2022)</b>를 마련하였습니다. <br>
+  3개월에 걸친 대회를 통해 정보보안을 더 넓은 시각에서 바라보며 <br> 그 속에서 여러분이 무엇을 할 수 있는지, 그리고 무엇을 해야하는지 직접 확인해보세요.  
+  </p>
+
+  <!-- <p>요즘 해킹대회 하면 CTF(Capture the Flag)를 먼저 떠올립니다.</p>
+  <p>수많은 해킹대회가 측정하기 쉽고 기준이 명확한 CTF로 치뤄지고 있기 때문이죠.</p>
+  <p>분명 CTF는 좋은 대회입니다. 하지만 CTF를 잘 한다고 해서 보안을 잘 한다고 할 수 있을까요?</p>
+  <p>우리는 당연하다는 듯 CTF 위주로 개최되는 보안 대회들에 의문을 던집니다.</p>
+  <p>세상은 넓고, 해킹은 항상 플래그를 찾는 공격만 들어오는 것이 아닙니다.</p>
+  <p>그래서 조금 더 많은 것들을 두고 더 많은 것들을 고민할 수 있는 대회를 준비했습니다.</p>
+  <p><br></p>
+  <p>지금 바로 호남 대학간 침해 대응 대회에 참여하여 조금 더 많은 공격 방법과 방어 방법을 경험해보세요.</p>
+  <p>보안의 세계를 조금 더 멀리 바라보고 여러분이 무슨 일을 할 수 있는지 직접 확인해보세요.</p>
+  <p><br></p>
+  <p><br></p> -->
+
+
+  <p></p><hr style="width:90%;"><p></p>
+
+  <h2 style="text-align: center;"> News </h2>
+  {% for news in site.data.news %}
+  <div class="news" style="padding-top:10px; padding-top:10px; text-align:left" >
+      <li><strong> [ {{ news.date }} ] </strong>
+       {{ news.title }} 
+
+       {% if news.link %}
+       <a href="{{ news.link }}" target="_self">[Link]</a>
+       {% endif %}
+
+       {% if news.nlink %}
+       <a href="{{ news.nlink }}" target="_blank">[Link]</a>
+       {% endif %}
+      </li>
+  </div>
+  {% endfor %}
+  <p></p><hr style="width:90%;"><p></p>
+
+  <h2 style="text-align: center;"> Important dates </h2>
+  <div class="basic" style="text-align:left;">
+    <li> 등록: ~ 2022년 06월 30일 </li>
+    <li> 온라인 예선 Phase 1: 2022년 07월 01일 ~ 31일 </li>
+    <li> 온라인 예선 Phase 2: 2022년 08월 01일 ~ 31일 </li>
+    <li> 온라인 예선 Phase 3: 2022년 09월 01일 ~ 21일 </li>
+    <li> 오프라인 결선: 2022년 09월 23일 ~ 29일
+      <li>- 결선 프리젠테이션 진출팀 선정: 23일</li>
+      <li>- 결선 프리젠테이션: 29일</li>
+    </li>
+  </div>
+</article>
+
+<script type="text/javascript">
+  var options = {
+    strings: [
+      'LD_PRELOAD=',
+      'LD_PRELOAD=./libc-2.19.so ./cheer_msg',
+      'objdump -N',
+      'objdump -M intel -d',
+      'objdump -M intel -d checker',
+      './exploit_check',
+      './exploit_checker_test.py',
+      'srclab\' OR 1=1',
+      'srclab\' UNION SELECT 1, 2, ',
+      'srclab\' UNION SELECT 1, group_concat(column_name)'
+    ],
+    typeSpeed: 35,
+    backSpeed: 20,
+    loop: true,
+    loopCount: Infinity
+  }
+  window.onload = () => {
+    var typed = new Typed('#typing-console__content', options)
+  }
+</script>

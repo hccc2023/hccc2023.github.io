@@ -1,0 +1,50 @@
+header {
+  margin-bottom: 2em;
+  padding: 1em 0;
+  background-color: $--base-header-bg-color;
+
+  div.logo {
+    padding: 1em 0;
+    padding-bottom: 0;
+    text-align: center;
+    h1 {
+      padding: 0 .5em;
+      color: $--base-fg-color;
+      font-size: 2em;
+      font-weight: 400;
+      user-select: none;
+      a {
+        text-decoration: none;
+      }
+      sup {
+        font-size: .6em;
+        vertical-align: super;
+      }
+    }
+  }
+  nav {
+    display: flex;
+    padding: 1em 0;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    a.header-nav__link {
+      padding: .2em .3em;
+      font-weight: 500;
+      color: $--base-fg-color;
+      text-decoration: none;
+      border-bottom: 2px solid rgba(0, 0, 0, 0);
+      transition: .2s ease-in-out;
+      &:hover, &:focus {
+        border-color: $--base-fg-color--dark;
+        font-size: 1.3em;
+        transition: .2s ease-in-out;
+      }
+      &.now {
+        border-color: $--base-fg-color;
+        font-size: 1.3em;
+
+      }
+    }
+  }
+}

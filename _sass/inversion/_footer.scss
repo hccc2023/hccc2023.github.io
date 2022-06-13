@@ -1,0 +1,21 @@
+footer {
+  padding: 1.5em .5em;
+  box-sizing: border-box;
+  background-color: $--base-footer-bg-color--dark;
+  div {
+    margin: auto;
+    width: 100%;
+    max-width: 720px;
+    text-align: center;
+    p.author {
+      font-size: .8em;
+    }
+  }
+  a {
+    text-decoration: none;
+    font-weight: 700;
+    &:hover, &:focus {
+      text-decoration: underline;
+    }
+  }
+}
