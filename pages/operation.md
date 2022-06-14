@@ -64,5 +64,5 @@ permalink: /operation
 * 기타 문의사항들은 아래 메일로 문의주시면 됩니다.  
    [taejune.park@jnu.ac.kr](mailto:taejune.park@jnu.ac.kr)  
 * 본 대회는 아래 기관들의 도움을 받아 진행됩니다.  
-  * 주최: [정보보호학회](https://www.kepco.co.kr/){:target="_blank"}, [한국전력공사](https://kiisc.or.kr/){:target="_blank"}, [국가정보원](https://nis.go.kr/){:target="_blank"}  
+  * 주최: [정보보호학회](https://www.kepco.co.kr/){:target="_blank"}, [국가정보원](https://nis.go.kr/){:target="_blank"}  
   * 운영: [알파인랩](https://alpinelab.io/){:target="_blank"}, [전남대학교 SRC Lab](https://src-jnu.ac.kr){:target="blank"}, [전남대학교 Stolio](https://stolio.me){:target="_blank"}  
