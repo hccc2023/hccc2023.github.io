@@ -29,7 +29,8 @@ permalink: /operation
    현장에서의 최종 발표를 포함한 종합 평가를 거쳐 우승팀이 결정됩니다!  
 
 ## 일정 및 내용
-![](/assets/img/schedule.png)  
+
+<p class="oversize"><img src="/assets/img/schedule.png"></p>
 
 * 등록: ~ 2022년 06월 30일   
 * 온라인 예선 Phase 1 '**Linux 진단 및 구성**': 2022년 07월 01일 ~ 31일  
