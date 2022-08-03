@@ -62,7 +62,7 @@ permalink: /updates
 
 * 본 문제의 이야기는 다음 단계에서도 죽 이어집니다!
 
-<p></p><hr style="width:90%;"><br>
+<p></p><hr style="width:90%;">
 <p></p><hr style="width:90%;"><p></p>
 
 ## Phase 1. 두번째 과제
