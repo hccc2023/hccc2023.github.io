@@ -31,7 +31,7 @@ permalink: /registration
 * 각 단계별 평가는 아래와 같은 내용들이 포함되었는지, 포함되어있다면 얼마나 정확한지 등에 따라 평가되었습니다.
 * 아래 표시된 평가 항목 이외에도, 추가적인 사항등에 대한 가산점등이 있을 수도 있습니다.
 
-* **Phase 1 첫번째 과제**
+* **Phase 1 첫번째 과제**  
     SQLi  
     XSS 세션탈취   
     CSRF  
@@ -45,7 +45,7 @@ permalink: /registration
     File Inclusion  
     보고서 작성  
 
-* **Phase 1 두번째 과제**
+* **Phase 1 두번째 과제**   
     웹쉘 유무 파악  
     리버스쉘 파악  
     권한상승   
