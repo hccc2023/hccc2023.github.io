@@ -58,6 +58,20 @@ permalink: /registration
     대응방안의 적절성  
     보고서 작성  
 
+* **Phase 2 첫번째 과제**   
+    다운로드 URL 확인
+    다운로드 파일의 ZoneID 확인
+    ISO 마운트 기록 확인
+    마운트 된 곳에서 실행 확인
+    바이너리 분석 상세
+    서비스등록 확인
+    부팅 시 리버스쉘 연결 확인
+    시스템 부팅시간 정리 및 연관분석
+    유출시도 흔적 정리
+    사용자 정상/비정상 및 기타 행위확인
+    보고서 작성  
+
+
 <!-- [새 창에서 보기](https://docs.google.com/forms/d/e/1FAIpQLSdlLooDw08T5JQCSOtVcx1sHs9s7_LcxAWxLJB8djLKivjNBQ/viewform?embedded=true){:target="_blank"}  
 
 <embed id="submit-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdlLooDw08T5JQCSOtVcx1sHs9s7_LcxAWxLJB8djLKivjNBQ/viewform?embedded=true" />
