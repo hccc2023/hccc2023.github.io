@@ -30,14 +30,14 @@ permalink: /updates
 <br>
 뭐 좋습니다. 이 없으면 잇몸인거죠!<br>
 <br>
-<p class="oversize"><img src="/assets/img/rank.png"></p><br>
+<p class="oversize"><img src="/assets/img/topology.png"></p><br>
 <br>
 자, 네트워크는 위 그림처럼 구성되기로 되었습니다.<br>
 앞으로 이번과 같은 'HCCC침해사고'가 다시 발생하지 않도록 <br>
 <br>
- * 웹 공격에 대한 방어  <br>
- * 악성코드 외부통신에 대한 방어  <br>
- * 서버의 접속에 대한 방어  <br>
+ * 웹 제작자를 믿을 수 없으니 -> 웹 공격에 대한 방어<br>
+ * 혹시 남아 있는 감염 PC로 부터 보호하기 위해 -> 악성코드 외부통신에 대한 방어<br>
+ * 우리의 자산을 보호해야하니 -> 서버의 접속에 대한 방어  <br>
 <br>
 들이 NFV기반 보안 모듈에서 이루어지도록 환경구성을 해봅시다.<br>
 <br>
