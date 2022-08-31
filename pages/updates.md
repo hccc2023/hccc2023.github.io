@@ -66,6 +66,7 @@ permalink: /updates
 
 * 본 문제까지 결과를 통해 상위 4개팀만이 Phase 3-2 최종 프리젠테이션 결승에 참여하시게 됩니다. 
   
+<p></p><hr style="width:90%;">
 <p></p><hr style="width:90%;"><p></p>
 
 ## Phase 2. 두번째 과제 (22/08/19 - 22/08/31)
