@@ -30,7 +30,7 @@ permalink: /updates
 <br>
 뭐 좋습니다. 이 없으면 잇몸인거죠!<br>
 <br>
-<p class="oversize"><img src="/assets/img/topology.png"></p><br>
+<img src="/assets/img/topology.png"><br>
 <br>
 자, 네트워크는 위 그림처럼 구성되기로 되었습니다.<br>
 앞으로 이번과 같은 'HCCC침해사고'가 다시 발생하지 않도록 <br>
