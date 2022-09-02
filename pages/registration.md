@@ -71,6 +71,17 @@ permalink: /registration
     사용자 정상/비정상 및 기타 행위확인  
     보고서 작성  
 
+* **Phase 2 두번째 과제**   
+    침해사고 준비도 설명  
+    준비도 적용  
+    준비도 적용(기타 추가사항)  
+    악성행위 재현(curl)  
+    악성행위 재현(zip 생성)  
+    악성행위 재현(ftp)  
+    악성행위 재현(sftp)  
+    악성행위 재현(scp)  
+    악성행위 재현(원격접속시도)  
+    준비도 전후 비교  
 
 <!-- [새 창에서 보기](https://docs.google.com/forms/d/e/1FAIpQLSdlLooDw08T5JQCSOtVcx1sHs9s7_LcxAWxLJB8djLKivjNBQ/viewform?embedded=true){:target="_blank"}  
 
