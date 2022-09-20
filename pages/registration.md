@@ -83,6 +83,16 @@ permalink: /registration
     악성행위 재현(원격접속시도)  
     준비도 전후 비교  
 
+* **Phase 3 첫번째 과제**   
+    네트워크 기본 구성
+    포트포워딩 및 in-out bound 처리
+    방화벽/WAF 구성
+    IDS/IPS 구성
+    마이크로아키텍쳐화
+    의존성 해결
+    로그 유지
+    자동화 완성도
+
 <!-- [새 창에서 보기](https://docs.google.com/forms/d/e/1FAIpQLSdlLooDw08T5JQCSOtVcx1sHs9s7_LcxAWxLJB8djLKivjNBQ/viewform?embedded=true){:target="_blank"}  
 
 <embed id="submit-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdlLooDw08T5JQCSOtVcx1sHs9s7_LcxAWxLJB8djLKivjNBQ/viewform?embedded=true" />
