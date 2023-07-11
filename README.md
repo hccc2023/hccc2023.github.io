@@ -1,12 +1,12 @@
-# Honam Collegiate CERT Challenge 2022 Website
+# Honam Collegiate CERT Challenge 2023 Website
 [![Ruby](https://img.shields.io/badge/Ruby->=2.7.5-CC342D?logo=ruby&logoColor=white)]()
 
 ## Getting Started
 ### Get This Repository
-[깃허브에서 제공하는 아카이브 받기](https://github.com/ShapeLayer/honam-collegiate-cybersecurity-conference-2022/archive/refs/heads/main.zip)
+[깃허브에서 제공하는 아카이브 받기](https://github.com/ShapeLayer/honam-collegiate-cybersecurity-conference-2023/archive/refs/heads/main.zip)
 
 ```sh
-git clone https://github.com/ShapeLayer/honam-collegiate-cybersecurity-conference-2022.git
+git clone https://github.com/ShapeLayer/honam-collegiate-cybersecurity-conference-2023.git
 ```
 
 ### Install Dependencies
