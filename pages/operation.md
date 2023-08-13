@@ -37,7 +37,7 @@ permalink: /operation
 * 수상자 선정 및 시상: 2023년 09월 22일  
    
 ## 오프라인 대회 안내
-![](/assets/img/mokpo.jpg)  
+![](/assets/img/mokpo.png)  
 * 일정: 2023년 9월 22일, '제 4회 호남정보보호컨퍼런스'에서 진행  
 * 장소: ['국립목포대학교'](https://www.mokpo.ac.kr/)  
 
