@@ -29,6 +29,7 @@ permalink: /updates
 해당 PC를 분석해 감염이 어떻게 일어났는지, 추가 감염은 없는지 알아봅시다!<br>
 <p></p><hr style="width:50%;"><p></p>
 <b style="font-weight: 700;color:#1154FF"> 제시된 VM이미지를 분석하여 감염 경로와 기타 침해사항들을 진단하세요. </b>
+<br>
 </center>
 
 1. 제공된 VM이미지의 취약점을 분석하세요
