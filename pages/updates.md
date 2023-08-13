@@ -1,7 +1,7 @@
 ---
 title: 진행상황
 class: hideable
-hide: true
+hide: false
 hidedesc: "대회가 시작되면 업데이트 됩니다."
 layout: default
 pagetype: updates
@@ -39,9 +39,9 @@ permalink: /updates
    
 * 기대 결과물: (필수)진단 보고서, (선택)취약점 패치 스크립트
   
-* 문제 다운로드: ['첫번째 과제'](https://src-jnu.myDS.me:38881/sharing/pcH6ENIFu)  
-    - 압축을 풀면 웹페이지의 압축, 보고서 양식등이 들어있습니다. 
-    - 파일의 비밀번호는 참가자들에게 개별로 전달됩니다. 
+* 문제 다운로드: ['첫번째 과제'](https://src-jnu.myDS.me:38881/sharing/i1sRZ2alR)  
+    - 압축을 풀면 VM이미지의 압축파일 및 보고서 양식이 들어있습니다. 
+    - 접근 비밀번호는 참가자들에게 개별로 전달됩니다. 
   
 * 제출기한: **2023년 8월 25일 오후 11시 59분.** 
    - 제출 기한을 초과하면 패널티가 있으니 기한을 엄수해주세요.
